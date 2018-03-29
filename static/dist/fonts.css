@@ -5,3 +5,9 @@
 .open-sans {
     font-family: 'Open Sans', sans-serif;
 }
+
+.open-sans-small-caps {
+	font-family: 'Open Sans';
+	font-variant: small-caps;
+	font-size: 16px;
+}
