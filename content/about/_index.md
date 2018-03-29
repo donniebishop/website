@@ -2,7 +2,6 @@
 title: "About"
 date: 2018-03-24T13:07:52-04:00
 description: "For anyone that cares to know a little more about me"
-draft: true
 ---
 
 My name's Donnie, but I prefer bushidoboy.

@@ -1,7 +1,7 @@
 ---
 title: "My 22nd Birthday"
 date: 2018-03-29T10:46:22-04:00
-draft: true
+draft: false
 ---
 
 So I turned 22 yesterday. Still not used to celebrating my own birthday, as I never did when I was growing up. I won't go into why that's the case, but here we are, celebrating my 22nd.
