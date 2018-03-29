@@ -6,9 +6,9 @@
 {{ $i := sub ($currentSection | len) 1 }}
 {{/* So we can only show this menu if there are one or more other entries  */}}
 {{ if ge $i 1 }}
-  <div class="bg-light-gray pa3">
+  <div class="bg-light-gray pa2">
     <ul>
-      <li class="list b mb3">
+      <li class="list b mb3 open-sans">
         {{/* Removed "$i More Blog" because I thought it was ugly */}}
         More Entries
       </li>
