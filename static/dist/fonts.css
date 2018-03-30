@@ -7,6 +7,7 @@
 }
 
 .open-sans-small-caps {
+	/* Primarily for the nav-bar */
 	font-family: 'Open Sans';
 	font-variant: small-caps;
 	font-size: 16px;
