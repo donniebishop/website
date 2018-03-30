@@ -3,15 +3,14 @@ https://bushidoboy.com, https://bushidoboy.xyz {
     #hugo /var/www/website
     gzip
     git {
-        repo     https://github.com/donniebishop/website.git 
+        repo     https://github.com/donniebishop/website.git
         path     /var/www/website
-        interval 7200
+        interval 1800
         then     hugo --destination=/var/www/public
     }
     minify {
         disable html json
     }
-    #tls donnie.a.bishop@gmail.com
     tls {
        # DO_AUTH_TOKEN needs to be set as an env variable
        # Best to do it via the systemd service file for caddy
