@@ -1,5 +1,6 @@
-<div>
+<div class="pa1">
   {{ with index .Params 0 }}
-	<iframe class="pv3" width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ . }}&color=%23cdcdcd&inverse=true&auto_play=false&show_user=true"></iframe>
+  {{/* Remember to do hard refreshes as this widget won't update properly without it */}}
+	<iframe class="pv3" width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ . }}&color=%23898989&inverse=false&auto_play=false&show_user=true"></iframe>
   {{ end }}
 </div>
