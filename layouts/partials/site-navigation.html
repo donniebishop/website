@@ -22,3 +22,16 @@
 <div class="pa4 fr f5 dn-l" id="burger-menu">
   <a href="#" class="white-90 fas fa-bars fa-lg no-underline"></a>
 </div>
+<div class="h-100 w-40 fixed bg-black-80 white-90 dn-l open-sans-small-caps" id="menu-off-canvas">
+{{ if .Site.Menus.main }}
+  <ul class="pl2 mr3">
+    {{ range .Site.Menus.main }}
+    <li class="list f5 f4-ns fw4 pa2">
+      <a class="hover-white no-underline white-90 open-sans-small-caps" href="{{ .URL }}" title="{{ .Name }} page">
+        {{ .Name }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+{{ end }}
+</div>
