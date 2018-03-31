@@ -19,37 +19,3 @@
     </div>
   </div>
 </nav>
-<div class="pa4 fr f5 dn-l" id="open-menu">
-  <a href="javascript:void(0)" class="white-90 fas fa-bars fa-lg no-underline" onClick="toggleNav()"></a>
-</div>
-<div class="h-100 w-40 z-1 fixed bg-black-80 white-90 dn dn-l" id="menu-off-canvas">
-  <div class="ph3 pv3 fr f5 dn-l" id="open-menu">
-    <a href="javascript:void(0)" class="white-90 fas fa-times no-underline open-sans" onClick="toggleNav()"></a>
-  </div>
-  {{ if .Site.Menus.main }}
-    <ul class="pl2 pt3 mr3">
-      <li class="list f5 f4-ns fw4 pa2 open-sans-small-caps">
-        <a class="hover-white no-underline white-90 open-sans-small-caps" href="{{ .Site.BaseURL }}">
-          Home
-        </a>
-      </li>
-      {{ range .Site.Menus.main }}
-      <li class="list f5 f4-ns fw4 pa2 open-sans-small-caps">
-        <a class="hover-white no-underline white-90 open-sans-small-caps" href="{{ .URL }}" title="{{ .Name }} page">
-          {{ .Name }}
-        </a>
-      </li>
-      {{ end }}
-    </ul>
-  {{ end }}
-</div>
-<script>
-function toggleNav() {
-    var classes = document.getElementById('menu-off-canvas').classList;
-    if (classes.contains("dn")) {
-      classes.remove("dn")
-    } else {
-      classes.add("dn")
-    }
-}
-</script>
