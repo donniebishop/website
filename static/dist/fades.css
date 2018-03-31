@@ -9,3 +9,9 @@
   opacity: 0;
   transition: visibility 0s .3s, opacity .3s linear;
 }
+
+/*fixes menu fading out on document load*/
+.hidden-init {
+  visibility: hidden;
+  opacity: 0;
+}
