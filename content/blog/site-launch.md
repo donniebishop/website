@@ -1,7 +1,7 @@
 ---
 title: "Website Launch!"
 date: 2018-03-31T07:33:59-04:00
-draft: true
+draft: false
 ---
 
 As of today, bushidoboy.com has officially launched. I'm pretty happy and excited about it.
@@ -25,7 +25,9 @@ I've tried several CSS frameworks across the multiple times I've tried getting i
 }
 {{< / highlight >}}
 
-With this, it's very easy to compose properties into elements on the page to get them to do exactly what I want. The only criticism I can come up with is that it can create some very long and unwieldy `class` strings on some elements like navigation menus and such. Still, I'm very happy ananke introduced me to this wonderful little CSS toolkit.
+With this, it's very easy to compose properties into elements on the page to get them to do exactly what I want. The only criticism I can come up with is that it can create some very long and unwieldy *class* strings on some elements like navigation menus and such. 
+
+I will say that the breakpoint system of *not-small*, *medium* and *large* was a little confusing at the beginning, but I'd like to believe it's more due to my inexperience with responsive design as a whole and not of Tachyons. Still, I'm very happy ananke introduced me to this wonderful little CSS toolkit, and I'll be using it for the foreseeable future.
 
 On the server side, Caddy is a great piece of code. I was exposed to Caddy by someone in IRC, and it's interested me for a very long time. The Caddyfile has a simple and readable configuration, supports SSL out of the box, and renews SSL certs automatically. This and the extensive plugins collection made Caddy a top choice for me, and I can say that my experience with it has been very nice. 
 
