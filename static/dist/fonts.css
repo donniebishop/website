@@ -1,3 +1,10 @@
+/* Custom Font Configurations */
+
+code {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 1.1rem;
+}
+
 .lusitana {
 	font-family: 'Lusitana', serif;
 }
@@ -10,5 +17,5 @@
 	/* Primarily for the nav-bar */
 	font-family: 'Open Sans';
 	font-variant: small-caps;
-	font-size: 16px;
+	font-size: 1.1rem;
 }
