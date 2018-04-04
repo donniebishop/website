@@ -10,6 +10,9 @@ bushidoboy.com, bushidoboy.xyz {
         then     hugo --destination=/var/www/public
         # Set HUGO_ENV=production in service file ^
     }
+    cache {
+        default_max_age 15m
+    }
     minify {
         disable html json
     }
