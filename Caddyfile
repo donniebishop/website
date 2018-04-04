@@ -8,6 +8,7 @@ bushidoboy.com, bushidoboy.xyz {
         path     /var/www/website
         interval 1800
         then     hugo --destination=/var/www/public
+        # Set HUGO_ENV=production in service file ^
     }
     minify {
         disable html json
