@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   body_classes = "lusitana bg-near-white"
-  favicon = ""
+  favicon = "images/favicon.png"
   description = "武士道ボイ"
   twitter = "https://twitter.com/covabishop"
   instagram = ""
