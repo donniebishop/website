@@ -2,6 +2,7 @@
 title: "About"
 date: 2018-03-24T13:07:52-04:00
 description: "If you care to know a little more about me"
+featured_image: "/images/bridge.png"
 ---
 
 My name's Donnie, but I prefer bushidoboy.
