@@ -1,1 +1,24 @@
 <script src="{{ "dist/app.bundle.js" | absURL }}" async></script>
+
+{{/* For site-nav-mobile */}}
+
+<script>
+function toggleNav() {
+    var c = document.getElementById('menu-off-canvas').classList;
+    if (c.contains("hidden")) {
+      c.remove("hidden")
+      c.add("visible")
+    } else if (c.contains("visible")) {
+      c.remove("visible")
+      c.add("hidden")
+    }
+}
+
+window.addEventListener(
+  'load',
+  function load() {
+    window.removeEventListener('load', load, false);
+    document.getElementById('menu-off-canvas').classList.remove('dn');
+  },
+  false);
+</script>
