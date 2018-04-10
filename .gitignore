@@ -1,2 +1,5 @@
 # Ignore Hugo-generated public directory
 public/
+
+# Ignore local configurations
+*.local
