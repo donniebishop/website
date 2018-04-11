@@ -10,11 +10,9 @@ Software & toolkits used to build this website:
 
 * Let's Encrypt
 
-* DigitalOcean
-
 * Google Fonts
 
-* Font Awesome
+* Simple Line Icons
 
 Updates staged in `dev` branch and deployed to `master`, which is pulled and refreshed on the webserver every 30 minutes.
 

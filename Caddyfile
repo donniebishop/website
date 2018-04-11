@@ -1,6 +1,5 @@
 bushidoboy.com, bushidoboy.xyz {
     root /var/www/public
-    #hugo /var/www/website
     gzip
     git {
         repo     https://github.com/donniebishop/website.git
