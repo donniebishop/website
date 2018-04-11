@@ -1,4 +1,4 @@
-bushidoboy.com, bushidoboy.xyz {
+https://bushidoboy.com, https://bushidoboy.xyz {
     root /var/www/public
     cache {
         default_max_age 15m
@@ -16,8 +16,8 @@ bushidoboy.com, bushidoboy.xyz {
         disable html json
     }
     tls {
-       # DO_AUTH_TOKEN needs to be set as an env variable
+       # Cloudflare credentials need to be set as an env variables
        # Best to do it via the systemd service file for caddy
-       dns digitalocean
+       dns cloudflare
     }
 }
