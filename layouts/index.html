@@ -29,22 +29,8 @@
       </section>
 
       {{ if ge $section_count (add $n_posts 1) }}
-      <section class="w-100">
-        <h1 class="f3">More</h1>
-        {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
-        {{ range (first 4 (after $n_posts $section))  }}
-          <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="{{ .URL }}" class="link black dim">
-              {{ .Title }}
-            </a>
-          </h2>
-        {{ end }}
-
-        {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
-        {{ with .Site.GetPage "section" $section_name }}
-          <a href="{{ .URL }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">All {{.Title }}</a>
-        {{ end }}
-        </section>
+      <!-- Definitely wanna improve this section. But for now a link to the blogs will do -->
+      <a href='{{ "blog" | absURL }}' class="ba link db f6 pa2 br3 bg-light-gray near-black dim w4 tc">All Posts</a>
       {{ end }}
 
       </div>
