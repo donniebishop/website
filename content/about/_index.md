@@ -7,7 +7,7 @@ featured_image: "/images/bridge.png"
 
 My name's Donnie, but I prefer bushidoboy.
 
-I used to be known as covabishop, but I'm soon retiring that moniker in favor of bushidoboy.
+I used to be known as Cova Bishop, but I'm soon retiring that moniker in favor of bushidoboy.
 
 I make music, program things, watch too much anime, and obsess over my cat.
 

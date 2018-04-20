@@ -8,15 +8,17 @@ So I made another mistake. A $350 mistake.
 
 But in a life characterized by constant mistakes, I'm glad I make mistakes that make me happy from time to time.
 
-{{< figure src="https://i.imgur.com/7HwVbdM.jpg" class="pv2">}}
+{{< figure src="https://i.imgur.com/7HwVbdM.jpg" class="pv2" >}}
 
-I've finally taken the dive and purchased a [Strymon Mobius](https://www.strymon.net/products/mobius/). For the uninitiated and click-averse, Strymon is a musical effects company that specializes in high-quality guitar pedals, and the Mobius is a multi-effect with extremely finite configuration and customization.
+I've finally taken the dive and purchased a [Strymon Mobius](https://www.strymon.net/products/mobius/). For the uninitiated, Strymon is a musical effects company that specializes in high-quality guitar pedals, and the Mobius is a multi-effect with extremely finite configuration and customization.
 
-The Mobius is a collection of 12 modulation effects, including a chorus, flanger, phaser, univibe, tremolo, filter, etc. Each individual effect has multiple settings which can be customized to your desire and then saved as one of 200 presets.
+The Mobius is a collection of 12 modulation effects, including a chorus, flanger, phaser, univibe, tremolo, filter, and more. Each individual effect has multiple settings which can be customized and saved as one of 200 presets.
 
-In short: this pedal makes my guitar sound washy and spinning; warm and cold; happy and sad; lush and tinny; old and fresh; dead, and alive.
+In short: this pedal makes my guitar sound washy and spinning; warm and cold; happy and sad; lush and tinny; old and fresh; dead and alive.
 
-After moving some pedals around on the board and wiring everything up, I spent a solid 3 hours just playing with it. Exploring all the factory presets, that range from "useful for certain things" to "I want this on all the time." The chorus can be soaking or subtle. The flanger makes everything sound like a jet engine. The filter is incredibly useful and versatile. And both tremolos add an incredible grace to slow and emotional playing.
+After moving some pedals around on the board and wiring everything up, I spent a solid 3 hours just playing with it. Exploring all the factory presets, that range from "useful for certain things" to "I want this on all the time", and then a good amount of time making a few of my own.
+
+ The chorus can be soaking or subtle. The flanger makes everything sound like a jet engine. The filter is incredibly useful and versatile. And both tremolos add an incredible grace to slow and emotional playing.
 
 Every option is made to alter or destroy my signal in a variety of ways, and every setting is a new lesson in imperfection. Paired with my Avalanche Run, it's a magical mystery tour of sound and feelings.
 
