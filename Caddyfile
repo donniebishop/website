@@ -1,8 +1,6 @@
 https://bushidoboy.com, https://bushidoboy.xyz {
     root /var/www/public
-    cache {
-        default_max_age 15m
-    }
+    gzip
     git {
         repo     https://github.com/donniebishop/website.git
         branch   master
@@ -11,9 +9,8 @@ https://bushidoboy.com, https://bushidoboy.xyz {
         then     hugo --destination=/var/www/public
         # Set HUGO_ENV=production in service file ^
     }
-    gzip
-    minify {
-        disable html json
+    cache {
+        default_max_age 15m
     }
     tls {
        # Cloudflare credentials need to be set as an env variables
