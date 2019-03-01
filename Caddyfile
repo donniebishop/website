@@ -1,20 +1,44 @@
 https://bushidoboy.com, https://bushidoboy.xyz {
     root /var/www/public
     gzip
+
+    log /var/log/caddy-requests.log {
+        rotate_size      100
+        rotate_age       90
+        rotate_keep      10
+        rotate_compress
+    }
+
+    errors /var/log/caddy-errors.log {
+        404              404.html
+        rotate_size      100
+        rotate_age       90
+        rotate_keep      10
+        rotate_compress
+    }
+
     git {
         repo     https://github.com/donniebishop/website.git
         branch   master
         path     /var/www/website
         interval 1800
         then     hugo --destination=/var/www/public
-        # Set HUGO_ENV=production in service file ^
     }
+
     cache {
         default_max_age 15m
     }
+
     tls {
-       # Cloudflare credentials need to be set as an env variables
-       # Best to do it via the systemd service file for caddy
-       dns cloudflare
+        # Cloudflare API Credentials need to be set
+        # Best to do it in Caddy service override file
+        dns cloudflare
+    }
+
+    upload /upload {
+        to                     "/var/www/public/u/"
+        promise_download_from  "/u/"
+        random_suffix_len      3
+        max_length             25000000
     }
 }
