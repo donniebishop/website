@@ -3,3 +3,6 @@ public/
 
 # Ignore local configurations
 *.local
+
+# vscode
+.vscode/
