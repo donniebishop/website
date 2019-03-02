@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on My Macbook Pro"
 date: 2019-02-28T23:43:13-05:00
-draft: true
+draft: false
 ---
 
 Last week I bought a MacBook Pro. Today I received it in the mail. Shocking how that works. I wanted to write down my thoughts on the experience and why I decided to bankrupt myself for a laptop.
