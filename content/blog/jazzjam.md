@@ -1,12 +1,12 @@
 ---
 title: "First Jazz Jam"
 date: 2019-11-24T13:31:27-05:00
-draft: true
+draft: false
 ---
 
-Remember what I said about updating this site more? Yeah. I really ought to do that. 
+Remember what I said about updating this site more? Yeah. I really ought to do that. I mean I wrote this thing last month and I'm just now posting it. Sorry.
 
-In any case, I thought I should at least write down my thoughts on participating in my first jazz jam this week. I could go into great depth describing why I wanted to participate and all the prep involved -- and did in my draft of this post -- but for the sake of brevity I'll leave that for another time. Right now I just want to capture how I felt in the moment.
+In any case, I thought I should at least write down my thoughts on participating in my first jazz jam this -- well, when I drafted this it was *this* -- week. I could go into great depth describing why I wanted to participate and all the prep involved -- and did in my first draft of this post -- but for the sake of "brevity" I'll leave that for another time. Right now I just want to capture how I felt in the moment.
 
 Before
 -------
@@ -17,7 +17,7 @@ Big problem. I was relying on him being there.
 
 The only amp I own is a Yamaha THR10C. It's a small 10W modeling amp, and not terribly loud, which makes it great for using at home in my apartment. However, it isn't the best for using in a live environment, competing with a keys and horns and drums. When I came last month, the house guitarist had brought a Roland JC-40 -- a 40W amp that is perfect for live gigging. I was banking on him showing up and asking to use his amplifier for when I came up to play.
 
-The organizers were very understanding and tried their best to assist, but no one had an extra amplifier or input on their amps to let me use, so I had to sit out for quite a while. While I was sitting out, I did my best to follow along in my real book to standards that were being played, trying to understand the changes and trying to determine how I would solo over them and comparing to how people were soloing over them.
+The organizers were very understanding and tried their best to assist, but no one had an extra amplifier or input on their amps to let me use, so I had to sit out for quite a while. While I was sitting out, I did my best to follow along in my book to standards that were being played, trying to understand the changes and trying to determine how I would solo over them and comparing to how people were soloing over them.
 
 Thankfully, about halfway into the night, another guitar player arrived. The organizers talked to him even before I did, and nodded at me, letting me know that I could use his amplifier as well that night. He played a few songs and I sat nervously until my name was called to come up.
 
@@ -38,7 +38,7 @@ I nervously nodded, and he nodded in turn. As the band restarted the chord progr
 
 I was hyperfocused on my playing. I could hear the band behind my playing, but my mind was only listening to me. Every mistake I would never catch in practice suddenly became sharp and apparent to my ears. I don't know when the key had changed, all I knew was that it had changed, and I had missed it. 
 
-*The key's about to change again. Stay on this C, it's in both keys. Run that harmonic minor lick you know. You hit an open string, do a better job of muting. Turnaround's here, get ready to go to Eb. Play the chord tones.*
+*The key's about to change again. Stay on this C, it's in both keys. Run that harmonic minor lick you know. You hit an open string, do a better job of muting. Turnaround's here, get ready to go to Eb. Play the chord tones. Where am I?*
 
 Eventually, my solo came to a stop, and the keyboard player began his. There was a small applause for me from the audience, sounding full of pity. For the rest of the song, I was lost in my own mind. My only purpose in life was to not mess up my comping. I wasn't playing or connecting with anyone else in the band. I was only playing to keep my head above water.
 
